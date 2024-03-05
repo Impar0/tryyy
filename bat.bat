@@ -1,2 +1,2 @@
 @echo off
-start /d "%windir%\System32" mspaint.exe
+start "C:\Windows\System32\mspaint.exe"
